@@ -35,7 +35,7 @@ else {
 		$Log 		= new Logging ($Database);
 
 		# reset url for base
-		$url = $User->createURL ();
+		#$url = $User->createURL ();
 	}
 
 	/** include proper subpage **/
